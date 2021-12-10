@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.dc4150ae.chunk.css",
+    "main.js": "./static/js/main.81ebc856.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.0ad816d2.js",
+    "static/css/2.d1dfd3d6.chunk.css": "./static/css/2.d1dfd3d6.chunk.css",
+    "static/js/2.2ef232fb.chunk.js": "./static/js/2.2ef232fb.chunk.js",
+    "index.html": "./index.html",
+    "precache-manifest.266a6b6b7d8f3d79475baa1abba45195.js": "./precache-manifest.266a6b6b7d8f3d79475baa1abba45195.js",
+    "service-worker.js": "./service-worker.js",
+    "static/js/2.2ef232fb.chunk.js.LICENSE.txt": "./static/js/2.2ef232fb.chunk.js.LICENSE.txt",
+    "static/media/App.less": "./static/media/facxlogo.c8a93a9a.c8a93a9a.png",
+    "static/media/ledger.svg": "./static/media/ledger.1c9e553b.svg",
+    "static/media/mathwallet.svg": "./static/media/mathwallet.0b4a504a.svg",
+    "static/media/solflare.svg": "./static/media/solflare.26e1b240.svg",
+    "static/media/sollet.svg": "./static/media/sollet.57232127.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ad816d2.js",
+    "static/css/2.d1dfd3d6.chunk.css",
+    "static/js/2.2ef232fb.chunk.js",
+    "static/css/main.dc4150ae.chunk.css",
+    "static/js/main.81ebc856.chunk.js"
+  ]
+}
